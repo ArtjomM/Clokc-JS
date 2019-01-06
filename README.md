@@ -1,2 +1,3 @@
-# a
-a
+# Clock
+
+Javascript colored clock
